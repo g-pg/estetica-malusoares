@@ -1,6 +1,6 @@
 # estetica-malusoares
 
-##Meu primeiro pequeno projeto front-end.
+## Meu primeiro pequeno projeto front-end.
 
 Link: https://estetica-malu.netlify.app/index.html
 
