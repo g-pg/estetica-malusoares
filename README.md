@@ -1,15 +1,15 @@
 # Sobre
 
-Meu primeiro pequeno projeto front-end.
+Meu primeiro projeto pessoal.
 
-Trata-se de um site que estou construindo para uma amiga muito querida com o intuito de praticar **HTML, CSS e Javascript**.
+Trata-se de um site que estou construindo para uma amiga com o intuito de praticar **HTML, CSS e Javascript**.
 
-Foi o resultado das minhas primeiras duas a três semanas de estudo. Embora nada haja de muito admirável nele, acredito ter feito um design elegante e responsivo. 
+Foi o resultado das minhas primeiras duas a três semanas de estudo.
 
+# Screenshots
 
+![Desktop preview](readme/desktop-preview.png)
 
 ## Link
-A master pode ser acessada neste link: https://estetica-malu.netlify.app/index.html
 
-
-
+Um preview do site pode ser acessado neste [link.](https://estetica-malu.netlify.app/index.html)
